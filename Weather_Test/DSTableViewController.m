@@ -15,7 +15,6 @@
 @interface DSTableViewController ()
 
 @property (strong,nonatomic) NSArray *weatherArray;
-@property (assign,nonatomic) BOOL loadingData;
 
 @end
 
